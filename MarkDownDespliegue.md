@@ -1,20 +1,3 @@
-
-GUARDAR DONDE IMAGENES DESPUES
-
-**asdasdsa**
-[hola](https://google.es)
-![imagenSanic](https://as.com/meristation/imagenes/2019/12/27/videos/1577426311_569791_1577426352_noticia_normal_recorte1.jpg)
-
-
-    if(noRespeto){
-        alert("adios");
-    }
-
-|hola   |adios |uno |
-| - | - | -:  |
-|1      |2  |3      |
-|2      |1  |4      |
-
 # Despliegue de aplicación Web con Laravel en Docker:
   
 ## 1. Paso mas difícil, Instalar laravel :
